@@ -144,7 +144,7 @@ DISABLEIPV6QUERY ()
             THREEWAY
         fi
     else
-        ENABLEIPV6QUERY
+        DISABLEIPV6QUERY
     fi
 }
 
